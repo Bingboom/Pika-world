@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 8617188
+      }
+    },
+    {
+      "query": "tag:#文化  ",
+      "color": {
+        "a": 1,
+        "rgb": 234087
+      }
+    },
+    {
+      "query": "tag:#艺术  ",
+      "color": {
+        "a": 1,
+        "rgb": 15824435
+      }
+    },
+    {
+      "query": "tag:#科技  ",
+      "color": {
+        "a": 1,
+        "rgb": 3576287
+      }
+    },
+    {
+      "query": "tag:#NebulaPKM  ",
+      "color": {
+        "a": 1,
+        "rgb": 4318901
+      }
+    },
+    {
+      "query": "tag: #阅读",
+      "color": {
+        "a": 1,
+        "rgb": 2354185
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.541237113402062,
+  "repelStrength": 12.680412371134,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.09418377141974255,
+  "close": true
+}

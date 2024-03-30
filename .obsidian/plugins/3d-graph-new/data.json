@@ -1,0 +1,191 @@
+{
+  "savedSettings": [
+    {
+      "title": "Echo",
+      "id": "d8381221-88f3-40c4-9f3d-4ad915b5b904",
+      "setting": {
+        "filter": {
+          "searchQuery": "",
+          "showOrphans": true,
+          "showAttachments": false
+        },
+        "groups": [
+          {
+            "query": "tag:#excalidraw  ",
+            "color": "#22cea3"
+          },
+          {
+            "query": "tag:#文化  ",
+            "color": "#0e8b4a"
+          },
+          {
+            "query": "tag:#科技  ",
+            "color": "#1694ca"
+          },
+          {
+            "query": "tag:#艺术  ",
+            "color": "#e19f0e"
+          }
+        ],
+        "display": {
+          "nodeSize": 3.2,
+          "linkThickness": 1,
+          "linkDistance": 58,
+          "nodeRepulsion": 2800,
+          "distanceFromFocal": 140,
+          "nodeHoverColor": "#e66565",
+          "nodeHoverNeighbourColor": "#58da58",
+          "linkHoverColor": "#7474e2",
+          "showExtension": false,
+          "showFullPath": false,
+          "showCenterCoordinates": true,
+          "showLinkArrow": true,
+          "dontMoveWhenDrag": false,
+          "dagOrientation": "null"
+        }
+      },
+      "type": "global"
+    },
+    {
+      "title": "New",
+      "id": "fda26754-7d6a-4050-bd02-3379b64fe848",
+      "setting": {
+        "filter": {
+          "searchQuery": "",
+          "showOrphans": true,
+          "showAttachments": false
+        },
+        "groups": [
+          {
+            "query": "tag:#excalidraw  ",
+            "color": "#22cea3"
+          },
+          {
+            "query": "tag:#文化  ",
+            "color": "#0e8b4a"
+          },
+          {
+            "query": "tag:#科技  ",
+            "color": "#1694ca"
+          },
+          {
+            "query": "tag:#艺术  ",
+            "color": "#e19f0e"
+          }
+        ],
+        "display": {
+          "nodeSize": 3.2,
+          "linkThickness": 1,
+          "linkDistance": 58,
+          "nodeRepulsion": 2800,
+          "distanceFromFocal": 140,
+          "nodeHoverColor": "#e66565",
+          "nodeHoverNeighbourColor": "#58da58",
+          "linkHoverColor": "#7474e2",
+          "showExtension": false,
+          "showFullPath": false,
+          "showCenterCoordinates": true,
+          "showLinkArrow": true,
+          "dontMoveWhenDrag": false,
+          "dagOrientation": "null"
+        }
+      },
+      "type": "global"
+    }
+  ],
+  "temporaryLocalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false,
+      "depth": 2,
+      "linkType": "both"
+    },
+    "groups": [
+      {
+        "query": "tag:#艺术  ",
+        "color": "#e47c1b"
+      },
+      {
+        "query": "tag:#科技  ",
+        "color": "#168ee9"
+      },
+      {
+        "query": "tag:#文化  ",
+        "color": "#51e658"
+      },
+      {
+        "query": "tag:#NebulaPKM  ",
+        "color": "#6fecab"
+      }
+    ],
+    "display": {
+      "nodeSize": 3.6,
+      "linkThickness": 1.2,
+      "linkDistance": 168,
+      "nodeRepulsion": 3000,
+      "distanceFromFocal": 390,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": true,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "temporaryGlobalGraphSetting": {
+    "filter": {
+      "searchQuery": "阅读",
+      "showOrphans": true,
+      "showAttachments": false
+    },
+    "groups": [
+      {
+        "query": "tag:#excalidraw  ",
+        "color": "#837ce4"
+      },
+      {
+        "query": "tag:#文化  ",
+        "color": "#039267"
+      },
+      {
+        "query": "tag:#科技  ",
+        "color": "#3691df"
+      },
+      {
+        "query": "tag:#艺术  ",
+        "color": "#f17633"
+      },
+      {
+        "query": "tag:#NebulaPKM  ",
+        "color": "#41e6b5"
+      }
+    ],
+    "display": {
+      "nodeSize": 3.2,
+      "linkThickness": 1,
+      "linkDistance": 58,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 140,
+      "nodeHoverColor": "#e66565",
+      "nodeHoverNeighbourColor": "#58da58",
+      "linkHoverColor": "#7474e2",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": true,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "pluginSetting": {
+    "maxNodeNumber": 1000,
+    "searchEngine": "default",
+    "rightClickToPan": false,
+    "commandLeftClickNode": "openNodeInNewTab",
+    "commandRightClickNode": "focusNode"
+  }
+}

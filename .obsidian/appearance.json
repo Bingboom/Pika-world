@@ -1,0 +1,10 @@
+{
+  "accentColor": "#a171ea",
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone",
+  "nativeMenus": false,
+  "baseFontSize": 17,
+  "translucency": true,
+  "textFontFamily": "Apple Braille",
+  "interfaceFontFamily": "Apple Braille"
+}

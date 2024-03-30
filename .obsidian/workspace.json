@@ -1,0 +1,354 @@
+{
+  "main": {
+    "id": "0f8d3e93d6d40165",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1bb258d4b40a078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4045df5382e48b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🚀NebulaPKM_Kit_介绍.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d2f55da813d1f534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🚀NebulaPKM_Kit_介绍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e0e2b9aa8ecd6916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗂🧰写作工具箱/说故事的人的故事.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e23dcc8f51f6b07",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-24 12.36.41.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2ce255da35c92291",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-24 12.36.41.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5d58ddb7c81bbee5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/the world.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "97e4450659f9c1a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pika’s World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28fc1216bac287cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d340d199050e4b7e",
+        "type": "tabs",
+        "dimension": 61.18518518518519,
+        "children": [
+          {
+            "id": "feaaf7a126058838",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c281ee86246ae73c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2e8cb42cb7f2a59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d89dddcd7ea7330b",
+        "type": "tabs",
+        "dimension": 38.81481481481481,
+        "children": [
+          {
+            "id": "178f4e56f67fe1c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 591.5
+  },
+  "right": {
+    "id": "76c8cefe872e7d78",
+    "type": "split",
+    "children": [
+      {
+        "id": "a37882a6381d8ed1",
+        "type": "tabs",
+        "dimension": 45.33468559837727,
+        "children": [
+          {
+            "id": "5527e08cc399f662",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "69416b2c482ff2ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Bing_PKM/PK系统/写作工具箱/艺术",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "424f8ad00edece5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pika’s World.md"
+              }
+            }
+          },
+          {
+            "id": "b61562090b50d036",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8c0421deb8620828",
+        "type": "tabs",
+        "dimension": 54.66531440162273,
+        "children": [
+          {
+            "id": "3f761b1ba3150ca0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Pika’s World.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.16660109558890648,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "eaa11a324dcd968b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pika’s World.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d8e74c24b9a84da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pika’s World.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:发布更改": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "obsidian-ocr:Search OCR": false
+    }
+  },
+  "active": "feaaf7a126058838",
+  "lastOpenFiles": [
+    "📖阅读/未分类/写作课 (中国故事).md",
+    "📖阅读/未分类/西游日记.md",
+    "📖阅读/未分类",
+    "📖阅读",
+    "规划.md",
+    "Pika’s World.md",
+    "🚀NebulaPKM_Kit_介绍.md",
+    "Excalidraw/the world.excalidraw.md",
+    "🗂👩PKM/🗂模板/sky.jpg",
+    "Excalidraw/Drawing 2024-03-24 12.36.41.excalidraw.md",
+    "🏡Home.md",
+    "🗂👩PKM/🗂模板/universe.jpg",
+    "🗂👩PKM/🗂模板/univer.jpg",
+    "🗂👩PKM/🗂模板/wallhaven-6qw15q.jpg",
+    "Excalidraw/🐿️与🌊.excalidraw.md",
+    "🗂👩PKM/🗂模板/🌊2024年12月日历.md",
+    "🗂🧰写作工具箱/未命名.md",
+    "🗂🧰写作工具箱/说故事的人的故事.md",
+    "🗂👩PKM/🗂模板/💡 读书笔记.md",
+    "🗂👩PKM/🗂模板/💡 商业画布.md",
+    "🗂👩PKM/🗂模板/🌊2024年年度计划.md",
+    "🗂👩PKM/🗂模板/2024年日历：七月.md",
+    "🗂👩PKM/🗂模板/2024年日历：二月.md",
+    "Bing_PKM PK系统 学生.md",
+    "🗂👩PKM/🗂模板/2024年日历：一月.md",
+    "🗂👩PKM/🗂模板/2024年日历：八月.md",
+    "🗂👩PKM/🗂模板/📙读书笔记.md",
+    "🗂👩PKM/🗂模板/🪐 PK系统-创意版.md",
+    "🗂👩PKM/🗂模板/🪐 PK系统-工作版（科技蓝）.md",
+    "🗂👩PKM/🗂模板/🪐 PK系统-工作版（文化绿）.md",
+    "🗂👩PKM/🗂模板/🪐 PK系统-工作版（艺术橙）.md",
+    "🗂👩PKM/🗂模板/🪐 PK系统-学生版.md",
+    "🗂👩PKM/附件/nebulapkm_kit.png",
+    "Excalidraw",
+    "🗂👩PKM/🗂Nebula/附件/002PKM工作流.png",
+    "🗂👩PKM/🗂Nebula/附件/02：常用Markdown语法.png",
+    "🗂👩PKM/🗂Nebula/附件/001nebula系统.png",
+    "🗂👩PKM/🗂Nebula/附件/01：6步基本使用入门.png",
+    "未分类信息/附件/nebula.png",
+    "🗂📖阅读/精品小说",
+    "🗂📖阅读/生活百科",
+    "🗂📖阅读/个人成长",
+    "🗂📖阅读/历史",
+    "🗂📖阅读/社会文化",
+    "🗂📖阅读/经济理财",
+    "🗂📖阅读/教育学习"
+  ]
+}
