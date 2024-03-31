@@ -1,6 +1,6 @@
 ---
 tags:
-  - Bing_PKM/PKM
+  - Pika_KM/PKM
 ---
 - 您好，这里是Echo的首页，带你开始进入*知识星云*。
 

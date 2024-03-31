@@ -538,8 +538,8 @@ tags: [excalidraw]
 			"y": 3259.878608870455,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 148.09363141214743,
-			"height": 92.5608208928241,
+			"width": 148.07998657226562,
+			"height": 92.56082089282408,
 			"seed": 1929995336,
 			"groupIds": [],
 			"frameId": null,
@@ -557,7 +557,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治",
 			"lineHeight": 1.25,
-			"baseline": 65.00000000000001
+			"baseline": 65
 		},
 		{
 			"type": "text",
@@ -575,8 +575,8 @@ tags: [excalidraw]
 			"y": 1330.8048425237503,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 148.09363141214743,
-			"height": 92.5608208928241,
+			"width": 148.07998657226562,
+			"height": 92.56082089282408,
 			"seed": 1495568712,
 			"groupIds": [],
 			"frameId": null,
@@ -594,7 +594,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "社会",
 			"lineHeight": 1.25,
-			"baseline": 65.00000000000001
+			"baseline": 65
 		},
 		{
 			"type": "text",
@@ -612,8 +612,8 @@ tags: [excalidraw]
 			"y": 2731.303780965734,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 148.09363141214743,
-			"height": 92.5608208928241,
+			"width": 148.07998657226562,
+			"height": 92.56082089282408,
 			"seed": 1638194760,
 			"groupIds": [],
 			"frameId": null,
@@ -631,7 +631,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化",
 			"lineHeight": 1.25,
-			"baseline": 65.00000000000001
+			"baseline": 65
 		},
 		{
 			"type": "text",
@@ -649,7 +649,7 @@ tags: [excalidraw]
 			"y": 4398.982938256476,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 209.36754678872097,
+			"width": 209.3599853515625,
 			"height": 130.85502914910177,
 			"seed": 1358593352,
 			"groupIds": [],
@@ -668,7 +668,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济",
 			"lineHeight": 1.25,
-			"baseline": 91.99999999999997
+			"baseline": 92
 		},
 		{
 			"type": "text",
@@ -686,8 +686,8 @@ tags: [excalidraw]
 			"y": 2032.221652454663,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 844.9483384546373,
-			"height": 92.56082089282411,
+			"width": 844.8703002929688,
+			"height": 92.56082089282413,
 			"seed": 352038968,
 			"groupIds": [],
 			"frameId": null,
@@ -723,7 +723,7 @@ tags: [excalidraw]
 			"y": 2151.224226894988,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 993.0420092006333,
+			"width": 992.9502563476562,
 			"height": 92.56082089282413,
 			"seed": 1948367688,
 			"groupIds": [],
@@ -742,7 +742,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 社会：儒家的文官制度",
 			"lineHeight": 1.25,
-			"baseline": 65.00000000000001
+			"baseline": 65
 		},
 		{
 			"type": "text",
@@ -760,8 +760,8 @@ tags: [excalidraw]
 			"y": 2503.1544897526614,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 770.9015030816392,
-			"height": 92.56082089282411,
+			"width": 770.830322265625,
+			"height": 92.5608208928241,
 			"seed": 1733952568,
 			"groupIds": [],
 			"frameId": null,
@@ -779,7 +779,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "社会 - 经济：小农社区",
 			"lineHeight": 1.25,
-			"baseline": 65.00000000000001
+			"baseline": 65
 		},
 		{
 			"type": "text",
@@ -797,8 +797,8 @@ tags: [excalidraw]
 			"y": 2744.3713979783333,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 725.8597623522799,
-			"height": 120.41722734338923,
+			"width": 725.8465576171875,
+			"height": 120.41722734338921,
 			"seed": 378507320,
 			"groupIds": [],
 			"frameId": null,
@@ -816,7 +816,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 文化：xx",
 			"lineHeight": 1.25,
-			"baseline": 83.99999999999999
+			"baseline": 84
 		},
 		{
 			"type": "text",
@@ -834,8 +834,8 @@ tags: [excalidraw]
 			"y": 449.34686388106184,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "transparent",
-			"width": 2609.773322284498,
-			"height": 362.470605890784,
+			"width": 2609.72998046875,
+			"height": 362.47060589078393,
 			"seed": 2067920696,
 			"groupIds": [],
 			"frameId": null,
@@ -853,7 +853,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "如何理解中国的变化",
 			"lineHeight": 1.25,
-			"baseline": 255.00000000000006
+			"baseline": 255
 		},
 		{
 			"type": "text",
@@ -871,8 +871,8 @@ tags: [excalidraw]
 			"y": 3950.1788506283438,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 557.942775913855,
-			"height": 92.56082089282411,
+			"width": 557.891357421875,
+			"height": 92.5608208928241,
 			"seed": 689167160,
 			"groupIds": [],
 			"frameId": null,
@@ -890,7 +890,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济 - 政治：xx",
 			"lineHeight": 1.25,
-			"baseline": 65.00000000000001
+			"baseline": 65
 		},
 		{
 			"type": "text",
@@ -908,8 +908,8 @@ tags: [excalidraw]
 			"y": 3514.477094825503,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 557.942775913855,
-			"height": 92.56082089282411,
+			"width": 557.891357421875,
+			"height": 92.5608208928241,
 			"seed": 1564216120,
 			"groupIds": [],
 			"frameId": null,
@@ -927,7 +927,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 经济：xx",
 			"lineHeight": 1.25,
-			"baseline": 65.00000000000001
+			"baseline": 65
 		},
 		{
 			"type": "text",
@@ -945,8 +945,8 @@ tags: [excalidraw]
 			"y": 823.3868038521978,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1265.3692807839593,
-			"height": 316.3449082005215,
+			"width": 1265.249755859375,
+			"height": 316.34490820052144,
 			"seed": 1784340552,
 			"groupIds": [],
 			"frameId": null,
@@ -1289,7 +1289,7 @@ tags: [excalidraw]
 			"y": -336.03070621575716,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 120.95550355487374,
+			"width": 120.9443591291271,
 			"height": 75.59906927655825,
 			"seed": 1427162952,
 			"groupIds": [
@@ -1328,7 +1328,7 @@ tags: [excalidraw]
 			"y": -1906.0107527075343,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 120.95550355487374,
+			"width": 120.9443591291271,
 			"height": 75.59906927655825,
 			"seed": 889757256,
 			"groupIds": [
@@ -1367,7 +1367,7 @@ tags: [excalidraw]
 			"y": -762.1529600933582,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 120.95550355487374,
+			"width": 120.9443591291271,
 			"height": 75.59906927655825,
 			"seed": 367891784,
 			"groupIds": [
@@ -1406,8 +1406,8 @@ tags: [excalidraw]
 			"y": 599.9243305680657,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 171.00098639218814,
-			"height": 106.87587165290506,
+			"width": 170.99481058685217,
+			"height": 106.87587165290505,
 			"seed": 488352840,
 			"groupIds": [
 				"uSNv0fHzo4ZQapFUDdbAn"
@@ -1445,8 +1445,8 @@ tags: [excalidraw]
 			"y": -1433.8876582791836,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 327.2343238673378,
-			"height": 75.59906927655828,
+			"width": 327.2031555175781,
+			"height": 75.59906927655827,
 			"seed": 1684988744,
 			"groupIds": [
 				"uSNv0fHzo4ZQapFUDdbAn"
@@ -1466,7 +1466,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 53.000000000000014
+			"baseline": 53
 		},
 		{
 			"type": "text",
@@ -1484,8 +1484,8 @@ tags: [excalidraw]
 			"y": -1202.2518325112997,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 327.2343238673378,
-			"height": 75.59906927655828,
+			"width": 327.2031555175781,
+			"height": 75.59906927655827,
 			"seed": 1782790728,
 			"groupIds": [
 				"uSNv0fHzo4ZQapFUDdbAn"
@@ -1505,7 +1505,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 53.000000000000014
+			"baseline": 53
 		},
 		{
 			"type": "text",
@@ -1523,8 +1523,8 @@ tags: [excalidraw]
 			"y": -798.266119397189,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 327.2343238673378,
-			"height": 75.59906927655828,
+			"width": 327.2031555175781,
+			"height": 75.59906927655827,
 			"seed": 24424776,
 			"groupIds": [
 				"uSNv0fHzo4ZQapFUDdbAn"
@@ -1544,7 +1544,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "社会 - 经济",
 			"lineHeight": 1.25,
-			"baseline": 53.000000000000014
+			"baseline": 53
 		},
 		{
 			"type": "text",
@@ -1562,8 +1562,8 @@ tags: [excalidraw]
 			"y": -751.4806454581494,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 592.8461084271815,
-			"height": 98.35079490667852,
+			"width": 592.8353234571111,
+			"height": 98.35079490667854,
 			"seed": 1096763464,
 			"groupIds": [
 				"uSNv0fHzo4ZQapFUDdbAn"
@@ -1583,7 +1583,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 文化：xx",
 			"lineHeight": 1.25,
-			"baseline": 68.99999999999997
+			"baseline": 69
 		},
 		{
 			"type": "text",
@@ -1601,8 +1601,8 @@ tags: [excalidraw]
 			"y": -2531.278324573813,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 552.0283123817468,
-			"height": 345.017823804922,
+			"width": 552.02001953125,
+			"height": 345.01782380492193,
 			"seed": 256890440,
 			"groupIds": [
 				"uSNv0fHzo4ZQapFUDdbAn"
@@ -1640,8 +1640,8 @@ tags: [excalidraw]
 			"y": 133.87454082588738,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 455.6998756256367,
-			"height": 75.59906927655828,
+			"width": 455.6578795618615,
+			"height": 75.5990692765583,
 			"seed": 311283016,
 			"groupIds": [
 				"uSNv0fHzo4ZQapFUDdbAn"
@@ -1661,7 +1661,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济 - 政治：xx",
 			"lineHeight": 1.25,
-			"baseline": 52.99999999999997
+			"baseline": 53
 		},
 		{
 			"type": "text",
@@ -1679,8 +1679,8 @@ tags: [excalidraw]
 			"y": -122.49599682385087,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 455.6998756256367,
-			"height": 75.59906927655828,
+			"width": 455.6578795618615,
+			"height": 75.5990692765583,
 			"seed": 150266952,
 			"groupIds": [
 				"uSNv0fHzo4ZQapFUDdbAn"
@@ -1700,7 +1700,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 经济：xx",
 			"lineHeight": 1.25,
-			"baseline": 52.99999999999997
+			"baseline": 53
 		},
 		{
 			"type": "line",
@@ -2025,8 +2025,8 @@ tags: [excalidraw]
 			"y": 886.1293316991432,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 32.9466447550831,
-			"height": 20.592164937246636,
+			"width": 32.94360916409894,
+			"height": 20.59216493724663,
 			"seed": 925377864,
 			"groupIds": [
 				"hHIyl7qVb7VwMVRONPCW2"
@@ -2046,7 +2046,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治",
 			"lineHeight": 1.25,
-			"baseline": 14.000000000000004
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -2064,8 +2064,8 @@ tags: [excalidraw]
 			"y": 458.487981416416,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 32.9466447550831,
-			"height": 20.592164937246636,
+			"width": 32.94360916409894,
+			"height": 20.59216493724663,
 			"seed": 1485061192,
 			"groupIds": [
 				"hHIyl7qVb7VwMVRONPCW2"
@@ -2085,7 +2085,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "社会",
 			"lineHeight": 1.25,
-			"baseline": 14.000000000000004
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -2103,8 +2103,8 @@ tags: [excalidraw]
 			"y": 770.0593877269648,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 32.9466447550831,
-			"height": 20.592164937246636,
+			"width": 32.94360916409894,
+			"height": 20.59216493724663,
 			"seed": 1145402184,
 			"groupIds": [
 				"hHIyl7qVb7VwMVRONPCW2"
@@ -2124,7 +2124,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化",
 			"lineHeight": 1.25,
-			"baseline": 14.000000000000004
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -2142,8 +2142,8 @@ tags: [excalidraw]
 			"y": 1141.0708366109702,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 46.57835803954377,
-			"height": 29.111543276248334,
+			"width": 46.57667583362091,
+			"height": 29.11154327624833,
 			"seed": 818399816,
 			"groupIds": [
 				"hHIyl7qVb7VwMVRONPCW2"
@@ -2181,8 +2181,8 @@ tags: [excalidraw]
 			"y": 587.0879327674893,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 89.13420806218923,
-			"height": 20.59216493724663,
+			"width": 89.12571822487755,
+			"height": 20.592164937246633,
 			"seed": 686244168,
 			"groupIds": [
 				"hHIyl7qVb7VwMVRONPCW2"
@@ -2202,7 +2202,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 13.999999999999996
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -2220,8 +2220,8 @@ tags: [excalidraw]
 			"y": 650.1824017236922,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 89.13420806218923,
-			"height": 20.59216493724663,
+			"width": 89.12571822487755,
+			"height": 20.592164937246633,
 			"seed": 2080364616,
 			"groupIds": [
 				"hHIyl7qVb7VwMVRONPCW2"
@@ -2241,7 +2241,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 13.999999999999996
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -2259,8 +2259,8 @@ tags: [excalidraw]
 			"y": 760.2226511122708,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 89.13420806218923,
-			"height": 20.59216493724663,
+			"width": 89.12571822487755,
+			"height": 20.592164937246633,
 			"seed": 770543432,
 			"groupIds": [
 				"hHIyl7qVb7VwMVRONPCW2"
@@ -2280,12 +2280,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "社会 - 经济",
 			"lineHeight": 1.25,
-			"baseline": 13.999999999999996
+			"baseline": 14
 		},
 		{
 			"type": "text",
-			"version": 1695,
-			"versionNonce": 442047048,
+			"version": 1696,
+			"versionNonce": 1007162861,
 			"isDeleted": false,
 			"id": "pAvpAgWz",
 			"fillStyle": "solid",
@@ -2298,7 +2298,7 @@ tags: [excalidraw]
 			"y": 772.9663820237665,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 161.48326909260996,
+			"width": 161.48033141249488,
 			"height": 26.789427565818336,
 			"seed": 1728865864,
 			"groupIds": [
@@ -2307,7 +2307,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854850,
+			"updated": 1711852858454,
 			"link": null,
 			"locked": false,
 			"fontSize": 21.43154205265467,
@@ -2319,7 +2319,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 文化：xx",
 			"lineHeight": 1.25,
-			"baseline": 18.999999999999996
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -2337,8 +2337,8 @@ tags: [excalidraw]
 			"y": 138.07678308314007,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 393.64175515812786,
-			"height": 246.03103166693742,
+			"width": 393.6400146484375,
+			"height": 246.03103166693754,
 			"seed": 1681415496,
 			"groupIds": [
 				"hHIyl7qVb7VwMVRONPCW2"
@@ -2358,7 +2358,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "日本",
 			"lineHeight": 1.25,
-			"baseline": 171.99999999999991
+			"baseline": 173
 		},
 		{
 			"type": "text",
@@ -2376,8 +2376,8 @@ tags: [excalidraw]
 			"y": 1014.1251713907786,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 124.12648846823335,
-			"height": 20.592164937246636,
+			"width": 124.11504930793349,
+			"height": 20.592164937246633,
 			"seed": 1724740680,
 			"groupIds": [
 				"hHIyl7qVb7VwMVRONPCW2"
@@ -2397,7 +2397,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济 - 政治：xx",
 			"lineHeight": 1.25,
-			"baseline": 14.000000000000004
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -2415,8 +2415,8 @@ tags: [excalidraw]
 			"y": 944.2933011461655,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 124.12648846823335,
-			"height": 20.592164937246636,
+			"width": 124.11504930793349,
+			"height": 20.592164937246633,
 			"seed": 614968136,
 			"groupIds": [
 				"hHIyl7qVb7VwMVRONPCW2"
@@ -2436,7 +2436,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 经济：xx",
 			"lineHeight": 1.25,
-			"baseline": 14.000000000000004
+			"baseline": 14
 		},
 		{
 			"type": "line",
@@ -2761,8 +2761,8 @@ tags: [excalidraw]
 			"y": 2849.7633919603195,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 66.68706119284755,
-			"height": 41.68044951076574,
+			"width": 66.68091687547556,
+			"height": 41.68044951076573,
 			"seed": 773129016,
 			"groupIds": [
 				"-YIg4b_wtdJlh-Jpnvtv7"
@@ -2800,8 +2800,8 @@ tags: [excalidraw]
 			"y": 1984.1776818859635,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 66.68706119284755,
-			"height": 41.68044951076574,
+			"width": 66.68091687547556,
+			"height": 41.68044951076573,
 			"seed": 738188344,
 			"groupIds": [
 				"-YIg4b_wtdJlh-Jpnvtv7"
@@ -2839,8 +2839,8 @@ tags: [excalidraw]
 			"y": 2614.8270725304396,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 66.68706119284755,
-			"height": 41.68044951076574,
+			"width": 66.68091687547556,
+			"height": 41.68044951076573,
 			"seed": 958895416,
 			"groupIds": [
 				"-YIg4b_wtdJlh-Jpnvtv7"
@@ -2878,8 +2878,8 @@ tags: [excalidraw]
 			"y": 3365.788615925762,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 94.27891173550195,
-			"height": 58.92446051223118,
+			"width": 94.27550679487294,
+			"height": 58.924460512231164,
 			"seed": 451948088,
 			"groupIds": [
 				"-YIg4b_wtdJlh-Jpnvtv7"
@@ -2899,7 +2899,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济",
 			"lineHeight": 1.25,
-			"baseline": 41.00000000000001
+			"baseline": 41
 		},
 		{
 			"type": "text",
@@ -2917,8 +2917,8 @@ tags: [excalidraw]
 			"y": 2244.4758970425496,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 180.4158945958267,
-			"height": 41.680449510765726,
+			"width": 180.3987103786012,
+			"height": 41.68044951076573,
 			"seed": 1245554488,
 			"groupIds": [
 				"-YIg4b_wtdJlh-Jpnvtv7"
@@ -2938,7 +2938,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 28.999999999999986
+			"baseline": 29
 		},
 		{
 			"type": "text",
@@ -2956,8 +2956,8 @@ tags: [excalidraw]
 			"y": 2372.184947341621,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 180.4158945958267,
-			"height": 41.680449510765726,
+			"width": 180.3987103786012,
+			"height": 41.68044951076573,
 			"seed": 57933880,
 			"groupIds": [
 				"-YIg4b_wtdJlh-Jpnvtv7"
@@ -2977,7 +2977,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 28.999999999999986
+			"baseline": 29
 		},
 		{
 			"type": "text",
@@ -2995,8 +2995,8 @@ tags: [excalidraw]
 			"y": 2594.916606337647,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 180.4158945958267,
-			"height": 41.680449510765726,
+			"width": 180.3987103786012,
+			"height": 41.68044951076573,
 			"seed": 1450654008,
 			"groupIds": [
 				"-YIg4b_wtdJlh-Jpnvtv7"
@@ -3016,7 +3016,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "社会 - 经济",
 			"lineHeight": 1.25,
-			"baseline": 28.999999999999986
+			"baseline": 29
 		},
 		{
 			"type": "text",
@@ -3034,7 +3034,7 @@ tags: [excalidraw]
 			"y": 2620.7110982938866,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 326.8570966073412,
+			"width": 326.8511504706388,
 			"height": 54.2242831913091,
 			"seed": 917197368,
 			"groupIds": [
@@ -3055,7 +3055,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 文化：xx",
 			"lineHeight": 1.25,
-			"baseline": 37.99999999999999
+			"baseline": 38
 		},
 		{
 			"type": "text",
@@ -3073,7 +3073,7 @@ tags: [excalidraw]
 			"y": 1456.3382041316772,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 652.3270257130648,
+			"width": 652.3400268554688,
 			"height": 407.7136910013031,
 			"seed": 183782200,
 			"groupIds": [
@@ -3094,7 +3094,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "美国",
 			"lineHeight": 1.25,
-			"baseline": 287.00000000000006
+			"baseline": 287
 		},
 		{
 			"type": "text",
@@ -3112,7 +3112,7 @@ tags: [excalidraw]
 			"y": 3108.8388291527226,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 251.2435118558549,
+			"width": 251.2203579356733,
 			"height": 41.680449510765726,
 			"seed": 1035347000,
 			"groupIds": [
@@ -3133,7 +3133,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济 - 政治：xx",
 			"lineHeight": 1.25,
-			"baseline": 28.999999999999993
+			"baseline": 29
 		},
 		{
 			"type": "text",
@@ -3151,7 +3151,7 @@ tags: [excalidraw]
 			"y": 2967.492654486638,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 251.2435118558549,
+			"width": 251.2203579356733,
 			"height": 41.680449510765726,
 			"seed": 1289018680,
 			"groupIds": [
@@ -3172,7 +3172,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 经济：xx",
 			"lineHeight": 1.25,
-			"baseline": 28.999999999999993
+			"baseline": 29
 		},
 		{
 			"type": "text",
@@ -3196,7 +3196,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1711804966664,
 			"link": null,
 			"locked": false,
@@ -3520,8 +3520,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 1408,
-			"versionNonce": 1647129416,
+			"version": 1409,
+			"versionNonce": 2023639907,
 			"isDeleted": false,
 			"id": "QyVIU9FL",
 			"fillStyle": "solid",
@@ -3534,8 +3534,8 @@ tags: [excalidraw]
 			"y": -455.5927404998138,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 56.832194667291475,
-			"height": 35.52100479530674,
+			"width": 56.826958343561856,
+			"height": 35.52100479530673,
 			"seed": 1263100472,
 			"groupIds": [
 				"t4zHRE53AtQWUK4P-ixD4"
@@ -3543,7 +3543,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854851,
+			"updated": 1711852858455,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.416803836245386,
@@ -3559,8 +3559,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 1462,
-			"versionNonce": 149456184,
+			"version": 1463,
+			"versionNonce": 533254221,
 			"isDeleted": false,
 			"id": "J6iOEPeu",
 			"fillStyle": "solid",
@@ -3573,8 +3573,8 @@ tags: [excalidraw]
 			"y": -1193.264107272349,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 56.832194667291475,
-			"height": 35.52100479530674,
+			"width": 56.826958343561856,
+			"height": 35.52100479530673,
 			"seed": 22043448,
 			"groupIds": [
 				"t4zHRE53AtQWUK4P-ixD4"
@@ -3582,7 +3582,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854851,
+			"updated": 1711852858455,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.416803836245386,
@@ -3598,8 +3598,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 1223,
-			"versionNonce": 1001884232,
+			"version": 1224,
+			"versionNonce": 975496963,
 			"isDeleted": false,
 			"id": "8x2DH1J9",
 			"fillStyle": "solid",
@@ -3612,8 +3612,8 @@ tags: [excalidraw]
 			"y": -655.810689850503,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 56.832194667291475,
-			"height": 35.52100479530674,
+			"width": 56.826958343561856,
+			"height": 35.52100479530673,
 			"seed": 772813880,
 			"groupIds": [
 				"t4zHRE53AtQWUK4P-ixD4"
@@ -3621,7 +3621,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854851,
+			"updated": 1711852858455,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.416803836245386,
@@ -3651,8 +3651,8 @@ tags: [excalidraw]
 			"y": -15.824583723066098,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 80.34658251437703,
-			"height": 50.216733960011766,
+			"width": 80.34368074834931,
+			"height": 50.21673396001177,
 			"seed": 1198320952,
 			"groupIds": [
 				"t4zHRE53AtQWUK4P-ixD4"
@@ -3672,12 +3672,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济",
 			"lineHeight": 1.25,
-			"baseline": 34.999999999999986
+			"baseline": 35
 		},
 		{
 			"type": "text",
-			"version": 1561,
-			"versionNonce": 1071579464,
+			"version": 1562,
+			"versionNonce": 339951277,
 			"isDeleted": false,
 			"id": "dAWQ96o6",
 			"fillStyle": "solid",
@@ -3690,8 +3690,8 @@ tags: [excalidraw]
 			"y": -971.4321870959911,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 153.7592058487645,
-			"height": 35.52100479530673,
+			"width": 153.7397876376147,
+			"height": 35.521004795306744,
 			"seed": 1724548664,
 			"groupIds": [
 				"t4zHRE53AtQWUK4P-ixD4"
@@ -3699,7 +3699,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854851,
+			"updated": 1711852858455,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.416803836245393,
@@ -3711,12 +3711,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 24.999999999999986
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 1629,
-			"versionNonce": 1921161016,
+			"version": 1630,
+			"versionNonce": 865537699,
 			"isDeleted": false,
 			"id": "IQSRa3VD",
 			"fillStyle": "solid",
@@ -3729,8 +3729,8 @@ tags: [excalidraw]
 			"y": -862.5956980148057,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 153.7592058487645,
-			"height": 35.52100479530673,
+			"width": 153.7397876376147,
+			"height": 35.521004795306744,
 			"seed": 1494023992,
 			"groupIds": [
 				"t4zHRE53AtQWUK4P-ixD4"
@@ -3738,7 +3738,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854851,
+			"updated": 1711852858455,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.416803836245393,
@@ -3750,12 +3750,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 24.999999999999986
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 2100,
-			"versionNonce": 1577031752,
+			"version": 2101,
+			"versionNonce": 1075896589,
 			"isDeleted": false,
 			"id": "M63H4JRI",
 			"fillStyle": "solid",
@@ -3768,8 +3768,8 @@ tags: [excalidraw]
 			"y": -672.7788313511919,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 153.7592058487645,
-			"height": 35.52100479530673,
+			"width": 153.7397876376147,
+			"height": 35.521004795306744,
 			"seed": 781735992,
 			"groupIds": [
 				"t4zHRE53AtQWUK4P-ixD4"
@@ -3777,7 +3777,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854851,
+			"updated": 1711852858455,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.416803836245393,
@@ -3789,7 +3789,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "社会 - 经济",
 			"lineHeight": 1.25,
-			"baseline": 24.999999999999986
+			"baseline": 25
 		},
 		{
 			"type": "text",
@@ -3807,8 +3807,8 @@ tags: [excalidraw]
 			"y": -650.7961924107594,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 278.55487722056733,
-			"height": 46.21113845624588,
+			"width": 278.54980979080585,
+			"height": 46.21113845624587,
 			"seed": 1263571256,
 			"groupIds": [
 				"t4zHRE53AtQWUK4P-ixD4"
@@ -3828,7 +3828,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 文化：xx",
 			"lineHeight": 1.25,
-			"baseline": 32.00000000000001
+			"baseline": 32
 		},
 		{
 			"type": "text",
@@ -3846,8 +3846,8 @@ tags: [excalidraw]
 			"y": -1588.4363845833414,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 435.73141495393236,
-			"height": 272.3454365039555,
+			"width": 435.739990234375,
+			"height": 272.3454365039554,
 			"seed": 1989782072,
 			"groupIds": [
 				"t4zHRE53AtQWUK4P-ixD4"
@@ -3867,12 +3867,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "西欧",
 			"lineHeight": 1.25,
-			"baseline": 191.0000000000001
+			"baseline": 192
 		},
 		{
 			"type": "text",
-			"version": 2272,
-			"versionNonce": 104868152,
+			"version": 2273,
+			"versionNonce": 2007188035,
 			"isDeleted": false,
 			"id": "JkOuIyqb",
 			"fillStyle": "solid",
@@ -3885,8 +3885,8 @@ tags: [excalidraw]
 			"y": -234.80289886241553,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 214.1153009186338,
-			"height": 35.52100479530674,
+			"width": 214.09556863360675,
+			"height": 35.52100479530673,
 			"seed": 1800905528,
 			"groupIds": [
 				"t4zHRE53AtQWUK4P-ixD4"
@@ -3894,7 +3894,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854851,
+			"updated": 1711852858455,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.416803836245386,
@@ -3906,12 +3906,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济 - 政治：xx",
 			"lineHeight": 1.25,
-			"baseline": 25.000000000000007
+			"baseline": 25
 		},
 		{
 			"type": "text",
-			"version": 2375,
-			"versionNonce": 471606856,
+			"version": 2376,
+			"versionNonce": 953890669,
 			"isDeleted": false,
 			"id": "WyvdYQ6G",
 			"fillStyle": "solid",
@@ -3924,8 +3924,8 @@ tags: [excalidraw]
 			"y": -355.2612482095228,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 214.1153009186338,
-			"height": 35.52100479530674,
+			"width": 214.09556863360675,
+			"height": 35.52100479530673,
 			"seed": 1743682616,
 			"groupIds": [
 				"t4zHRE53AtQWUK4P-ixD4"
@@ -3933,7 +3933,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854851,
+			"updated": 1711852858455,
 			"link": null,
 			"locked": false,
 			"fontSize": 28.416803836245386,
@@ -3945,7 +3945,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 经济：xx",
 			"lineHeight": 1.25,
-			"baseline": 25.000000000000007
+			"baseline": 25
 		},
 		{
 			"type": "line",
@@ -4256,8 +4256,8 @@ tags: [excalidraw]
 			"y": 1365.88374605027,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 25.90986398360882,
-			"height": 16.194067608956836,
+			"width": 25.90747673749942,
+			"height": 16.19406760895684,
 			"seed": 1108068152,
 			"groupIds": [],
 			"frameId": null,
@@ -4293,8 +4293,8 @@ tags: [excalidraw]
 			"y": 1029.578507627386,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 25.90986398360882,
-			"height": 16.194067608956836,
+			"width": 25.90747673749942,
+			"height": 16.19406760895684,
 			"seed": 478027832,
 			"groupIds": [],
 			"frameId": null,
@@ -4330,8 +4330,8 @@ tags: [excalidraw]
 			"y": 1274.6041488937117,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 25.90986398360882,
-			"height": 16.194067608956836,
+			"width": 25.90747673749942,
+			"height": 16.19406760895684,
 			"seed": 155015480,
 			"groupIds": [],
 			"frameId": null,
@@ -4353,8 +4353,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 1523,
-			"versionNonce": 180995144,
+			"version": 1524,
+			"versionNonce": 1059586531,
 			"isDeleted": false,
 			"id": "nxSlTlkD",
 			"fillStyle": "solid",
@@ -4367,14 +4367,14 @@ tags: [excalidraw]
 			"y": 1566.3745627979406,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 36.63010089056844,
-			"height": 22.893867713924486,
+			"width": 36.62877797204434,
+			"height": 22.89386771392448,
 			"seed": 1806529080,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804900453,
+			"updated": 1711852858455,
 			"link": null,
 			"locked": false,
 			"fontSize": 18.315094171139584,
@@ -4386,7 +4386,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济",
 			"lineHeight": 1.25,
-			"baseline": 16.000000000000007
+			"baseline": 16
 		},
 		{
 			"type": "text",
@@ -4404,8 +4404,8 @@ tags: [excalidraw]
 			"y": 1130.7119393493203,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 70.09682546875135,
-			"height": 16.19406760895684,
+			"width": 70.09014890026845,
+			"height": 16.194067608956836,
 			"seed": 447900472,
 			"groupIds": [],
 			"frameId": null,
@@ -4441,8 +4441,8 @@ tags: [excalidraw]
 			"y": 1180.3306219473725,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 70.09682546875135,
-			"height": 16.19406760895684,
+			"width": 70.09014890026845,
+			"height": 16.194067608956836,
 			"seed": 1890599992,
 			"groupIds": [],
 			"frameId": null,
@@ -4478,8 +4478,8 @@ tags: [excalidraw]
 			"y": 1266.8683533484,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 70.09682546875135,
-			"height": 16.19406760895684,
+			"width": 70.09014890026845,
+			"height": 16.194067608956836,
 			"seed": 1535835448,
 			"groupIds": [],
 			"frameId": null,
@@ -4515,7 +4515,7 @@ tags: [excalidraw]
 			"y": 1276.8902641382583,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 126.99349414548519,
+			"width": 126.99118389833333,
 			"height": 21.067712041360586,
 			"seed": 1822856760,
 			"groupIds": [],
@@ -4534,7 +4534,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 文化：xx",
 			"lineHeight": 1.25,
-			"baseline": 14.999999999999996
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -4552,8 +4552,8 @@ tags: [excalidraw]
 			"y": 827.0593569962575,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 415.3345244232117,
-			"height": 259.5995870772208,
+			"width": 415.3399963378906,
+			"height": 259.5995870772209,
 			"seed": 1759973176,
 			"groupIds": [],
 			"frameId": null,
@@ -4571,7 +4571,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "香港",
 			"lineHeight": 1.25,
-			"baseline": 181.99999999999983
+			"baseline": 182
 		},
 		{
 			"type": "text",
@@ -4589,8 +4589,8 @@ tags: [excalidraw]
 			"y": 1466.5420929481406,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 97.61541598188771,
-			"height": 16.194067608956843,
+			"width": 97.60642001007754,
+			"height": 16.19406760895684,
 			"seed": 1487956024,
 			"groupIds": [],
 			"frameId": null,
@@ -4626,8 +4626,8 @@ tags: [excalidraw]
 			"y": 1411.6249906693183,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 97.61541598188771,
-			"height": 16.194067608956843,
+			"width": 97.60642001007754,
+			"height": 16.19406760895684,
 			"seed": 400990520,
 			"groupIds": [],
 			"frameId": null,
@@ -4956,8 +4956,8 @@ tags: [excalidraw]
 			"y": 1690.6811203131483,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 32.9466447550831,
-			"height": 20.592164937246636,
+			"width": 32.94360916409894,
+			"height": 20.59216493724663,
 			"seed": 256087352,
 			"groupIds": [],
 			"frameId": null,
@@ -4975,7 +4975,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治",
 			"lineHeight": 1.25,
-			"baseline": 14.000000000000004
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -4993,8 +4993,8 @@ tags: [excalidraw]
 			"y": 1263.039770030421,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 32.9466447550831,
-			"height": 20.592164937246636,
+			"width": 32.94360916409894,
+			"height": 20.59216493724663,
 			"seed": 1301032504,
 			"groupIds": [],
 			"frameId": null,
@@ -5012,7 +5012,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "社会",
 			"lineHeight": 1.25,
-			"baseline": 14.000000000000004
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -5030,8 +5030,8 @@ tags: [excalidraw]
 			"y": 1574.6111763409708,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 32.9466447550831,
-			"height": 20.592164937246636,
+			"width": 32.94360916409894,
+			"height": 20.59216493724663,
 			"seed": 1230612280,
 			"groupIds": [],
 			"frameId": null,
@@ -5049,7 +5049,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化",
 			"lineHeight": 1.25,
-			"baseline": 14.000000000000004
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -5067,8 +5067,8 @@ tags: [excalidraw]
 			"y": 1945.6226252249749,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 46.57835803954377,
-			"height": 29.111543276248334,
+			"width": 46.57667583362091,
+			"height": 29.11154327624833,
 			"seed": 1058013240,
 			"groupIds": [],
 			"frameId": null,
@@ -5104,8 +5104,8 @@ tags: [excalidraw]
 			"y": 1391.6397213814944,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 89.13420806218923,
-			"height": 20.59216493724663,
+			"width": 89.12571822487755,
+			"height": 20.592164937246633,
 			"seed": 1049835832,
 			"groupIds": [],
 			"frameId": null,
@@ -5123,7 +5123,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 13.999999999999996
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -5141,8 +5141,8 @@ tags: [excalidraw]
 			"y": 1454.7341903376969,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 89.13420806218923,
-			"height": 20.59216493724663,
+			"width": 89.12571822487755,
+			"height": 20.592164937246633,
 			"seed": 994529848,
 			"groupIds": [],
 			"frameId": null,
@@ -5160,7 +5160,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 13.999999999999996
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -5178,8 +5178,8 @@ tags: [excalidraw]
 			"y": 1564.774439726276,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 89.13420806218923,
-			"height": 20.59216493724663,
+			"width": 89.12571822487755,
+			"height": 20.592164937246633,
 			"seed": 470829880,
 			"groupIds": [],
 			"frameId": null,
@@ -5197,12 +5197,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "社会 - 经济",
 			"lineHeight": 1.25,
-			"baseline": 13.999999999999996
+			"baseline": 14
 		},
 		{
 			"type": "text",
-			"version": 1795,
-			"versionNonce": 1811071288,
+			"version": 1796,
+			"versionNonce": 683393485,
 			"isDeleted": false,
 			"id": "UdI7pLVJ",
 			"fillStyle": "solid",
@@ -5215,14 +5215,14 @@ tags: [excalidraw]
 			"y": 1577.518170637772,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 161.48326909260996,
+			"width": 161.48033141249488,
 			"height": 26.789427565818336,
 			"seed": 1263674424,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804897258,
+			"updated": 1711852858456,
 			"link": null,
 			"locked": false,
 			"fontSize": 21.43154205265467,
@@ -5234,7 +5234,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 文化：xx",
 			"lineHeight": 1.25,
-			"baseline": 18.999999999999996
+			"baseline": 19
 		},
 		{
 			"type": "text",
@@ -5252,8 +5252,8 @@ tags: [excalidraw]
 			"y": 1066.6386033193976,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 260.5608563993788,
-			"height": 162.85380164055042,
+			"width": 260.55999755859375,
+			"height": 162.85380164055044,
 			"seed": 1190190392,
 			"groupIds": [],
 			"frameId": null,
@@ -5271,7 +5271,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "台湾",
 			"lineHeight": 1.25,
-			"baseline": 113.99999999999997
+			"baseline": 114
 		},
 		{
 			"type": "text",
@@ -5289,8 +5289,8 @@ tags: [excalidraw]
 			"y": 1818.6769600047828,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 124.12648846823335,
-			"height": 20.592164937246636,
+			"width": 124.11504930793349,
+			"height": 20.592164937246633,
 			"seed": 810579512,
 			"groupIds": [],
 			"frameId": null,
@@ -5308,7 +5308,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济 - 政治：xx",
 			"lineHeight": 1.25,
-			"baseline": 14.000000000000004
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -5326,8 +5326,8 @@ tags: [excalidraw]
 			"y": 1748.845089760171,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 124.12648846823335,
-			"height": 20.592164937246636,
+			"width": 124.11504930793349,
+			"height": 20.592164937246633,
 			"seed": 1549070136,
 			"groupIds": [],
 			"frameId": null,
@@ -5345,7 +5345,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 经济：xx",
 			"lineHeight": 1.25,
-			"baseline": 14.000000000000004
+			"baseline": 14
 		},
 		{
 			"type": "line",
@@ -5656,8 +5656,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 1650,
-			"versionNonce": 509558856,
+			"version": 1651,
+			"versionNonce": 590597507,
 			"isDeleted": false,
 			"id": "GNce2sn3",
 			"fillStyle": "solid",
@@ -5670,8 +5670,8 @@ tags: [excalidraw]
 			"y": 669.1271047360669,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 22.120240827315488,
-			"height": 13.825494248467324,
+			"width": 22.118202744101797,
+			"height": 13.825494248467322,
 			"seed": 1531162440,
 			"groupIds": [
 				"F9sZUt7uvRXmY-8NR9W6j"
@@ -5679,7 +5679,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854852,
+			"updated": 1711852858457,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.060395398773858,
@@ -5695,8 +5695,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 1704,
-			"versionNonce": 1785317432,
+			"version": 1705,
+			"versionNonce": 886833197,
 			"isDeleted": false,
 			"id": "uMLvatKm",
 			"fillStyle": "solid",
@@ -5709,8 +5709,8 @@ tags: [excalidraw]
 			"y": 382.01047339797515,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 22.120240827315488,
-			"height": 13.825494248467324,
+			"width": 22.118202744101797,
+			"height": 13.825494248467322,
 			"seed": 1151239752,
 			"groupIds": [
 				"F9sZUt7uvRXmY-8NR9W6j"
@@ -5718,7 +5718,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854852,
+			"updated": 1711852858457,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.060395398773858,
@@ -5734,8 +5734,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 1465,
-			"versionNonce": 538965832,
+			"version": 1466,
+			"versionNonce": 386213155,
 			"isDeleted": false,
 			"id": "oMKIqJgS",
 			"fillStyle": "solid",
@@ -5748,8 +5748,8 @@ tags: [excalidraw]
 			"y": 591.198225101627,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 22.120240827315488,
-			"height": 13.825494248467324,
+			"width": 22.118202744101797,
+			"height": 13.825494248467322,
 			"seed": 176586056,
 			"groupIds": [
 				"F9sZUt7uvRXmY-8NR9W6j"
@@ -5757,7 +5757,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854852,
+			"updated": 1711852858457,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.060395398773858,
@@ -5773,8 +5773,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 1489,
-			"versionNonce": 1802764600,
+			"version": 1490,
+			"versionNonce": 589656717,
 			"isDeleted": false,
 			"id": "DXiRHxBE",
 			"fillStyle": "solid",
@@ -5787,7 +5787,7 @@ tags: [excalidraw]
 			"y": 840.2937751952131,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 31.272516665499705,
+			"width": 31.27138723941061,
 			"height": 19.545369578979027,
 			"seed": 1582797896,
 			"groupIds": [
@@ -5796,7 +5796,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854852,
+			"updated": 1711852858457,
 			"link": null,
 			"locked": false,
 			"fontSize": 15.636295663183224,
@@ -5808,12 +5808,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济",
 			"lineHeight": 1.25,
-			"baseline": 13.999999999999996
+			"baseline": 14
 		},
 		{
 			"type": "text",
-			"version": 1802,
-			"versionNonce": 917622344,
+			"version": 1803,
+			"versionNonce": 571115715,
 			"isDeleted": false,
 			"id": "63t0DUCi",
 			"fillStyle": "solid",
@@ -5826,7 +5826,7 @@ tags: [excalidraw]
 			"y": 468.3519480887444,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 59.84433810922363,
+			"width": 59.838638067616486,
 			"height": 13.825494248467324,
 			"seed": 1710082888,
 			"groupIds": [
@@ -5835,7 +5835,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854852,
+			"updated": 1711852858457,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.060395398773858,
@@ -5847,12 +5847,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 10.000000000000002
+			"baseline": 10
 		},
 		{
 			"type": "text",
-			"version": 1870,
-			"versionNonce": 550443576,
+			"version": 1871,
+			"versionNonce": 1079089389,
 			"isDeleted": false,
 			"id": "FGSMXb71",
 			"fillStyle": "solid",
@@ -5865,7 +5865,7 @@ tags: [excalidraw]
 			"y": 510.7133132158415,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 59.84433810922363,
+			"width": 59.838638067616486,
 			"height": 13.825494248467324,
 			"seed": 732242504,
 			"groupIds": [
@@ -5874,7 +5874,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854852,
+			"updated": 1711852858457,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.060395398773858,
@@ -5886,12 +5886,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "政治 - 社会",
 			"lineHeight": 1.25,
-			"baseline": 10.000000000000002
+			"baseline": 10
 		},
 		{
 			"type": "text",
-			"version": 2341,
-			"versionNonce": 1794164040,
+			"version": 2342,
+			"versionNonce": 1508014179,
 			"isDeleted": false,
 			"id": "AULMnQAk",
 			"fillStyle": "solid",
@@ -5904,7 +5904,7 @@ tags: [excalidraw]
 			"y": 584.5938808811616,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 59.84433810922363,
+			"width": 59.838638067616486,
 			"height": 13.825494248467324,
 			"seed": 240752968,
 			"groupIds": [
@@ -5913,7 +5913,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854852,
+			"updated": 1711852858457,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.060395398773858,
@@ -5925,7 +5925,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "社会 - 经济",
 			"lineHeight": 1.25,
-			"baseline": 10.000000000000002
+			"baseline": 10
 		},
 		{
 			"type": "text",
@@ -5943,7 +5943,7 @@ tags: [excalidraw]
 			"y": 593.1499690320597,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 108.41919802348367,
+			"width": 108.41722567722194,
 			"height": 17.986310708934923,
 			"seed": 828846152,
 			"groupIds": [
@@ -5982,8 +5982,8 @@ tags: [excalidraw]
 			"y": 144.27631517749705,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 455.50497607098924,
-			"height": 284.70451585615643,
+			"width": 455.5199890136719,
+			"height": 284.7045158561565,
 			"seed": 1823074120,
 			"groupIds": [
 				"F9sZUt7uvRXmY-8NR9W6j"
@@ -6003,12 +6003,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "英国",
 			"lineHeight": 1.25,
-			"baseline": 199.99999999999994
+			"baseline": 200
 		},
 		{
 			"type": "text",
-			"version": 2515,
-			"versionNonce": 931654712,
+			"version": 2516,
+			"versionNonce": 99218253,
 			"isDeleted": false,
 			"id": "Gg0xaeQl",
 			"fillStyle": "solid",
@@ -6021,8 +6021,8 @@ tags: [excalidraw]
 			"y": 755.0629813608521,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 83.33801023980459,
-			"height": 13.825494248467324,
+			"width": 83.33033003495898,
+			"height": 13.825494248467319,
 			"seed": 1014873672,
 			"groupIds": [
 				"F9sZUt7uvRXmY-8NR9W6j"
@@ -6030,7 +6030,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854852,
+			"updated": 1711852858457,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.060395398773855,
@@ -6042,12 +6042,12 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "经济 - 政治：xx",
 			"lineHeight": 1.25,
-			"baseline": 10.000000000000007
+			"baseline": 10
 		},
 		{
 			"type": "text",
-			"version": 2618,
-			"versionNonce": 1449530184,
+			"version": 2619,
+			"versionNonce": 475755523,
 			"isDeleted": false,
 			"id": "Fp3u7NA2",
 			"fillStyle": "solid",
@@ -6060,8 +6060,8 @@ tags: [excalidraw]
 			"y": 708.1781529142672,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 83.33801023980459,
-			"height": 13.825494248467324,
+			"width": 83.33033003495898,
+			"height": 13.825494248467319,
 			"seed": 834581832,
 			"groupIds": [
 				"F9sZUt7uvRXmY-8NR9W6j"
@@ -6069,7 +6069,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711804854852,
+			"updated": 1711852858458,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.060395398773855,
@@ -6081,44 +6081,7 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "文化 - 经济：xx",
 			"lineHeight": 1.25,
-			"baseline": 10.000000000000007
-		},
-		{
-			"id": "Wam2Ij3K",
-			"type": "text",
-			"x": 2484.7158873096705,
-			"y": 1108.719651924363,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "#b2f2bb",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 875443256,
-			"version": 4,
-			"versionNonce": 908607048,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1711804860463,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 18,
-			"containerId": "Ol9VivJoUSK7WilXH_zix",
-			"originalText": "",
-			"lineHeight": 1.25
+			"baseline": 10
 		}
 	],
 	"appState": {
@@ -6136,8 +6099,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 5832.3089667057975,
-		"scrollY": 5005.017461175452,
+		"scrollX": 9173.442078243565,
+		"scrollY": 5745.483275265967,
 		"zoom": {
 			"value": 0.1
 		},
