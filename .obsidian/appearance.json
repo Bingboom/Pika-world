@@ -1,10 +1,13 @@
 {
-  "accentColor": "#a171ea",
-  "cssTheme": "Blue Topaz",
+  "accentColor": "#d8c5f7",
+  "cssTheme": "Prism",
   "theme": "moonstone",
-  "nativeMenus": false,
+  "nativeMenus": true,
   "baseFontSize": 17,
   "translucency": true,
   "textFontFamily": "Apple Braille",
-  "interfaceFontFamily": "Apple Braille"
+  "interfaceFontFamily": "Apple Braille",
+  "enabledCssSnippets": [
+    "sidecallout"
+  ]
 }

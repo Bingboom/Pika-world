@@ -8,159 +8,28 @@
         "type": "tabs",
         "children": [
           {
+            "id": "76964cdf673f0486",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗂🧰写作工具箱/灵感盒子/关于思想.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "9d4045df5382e48b",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🚀NebulaPKM_Kit_介绍.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "d2f55da813d1f534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🚀NebulaPKM_Kit_介绍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0e2b9aa8ecd6916",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗂🧰写作工具箱/4 - 论写作.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e23dcc8f51f6b07",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-24 12.36.41.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2ce255da35c92291",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-24 12.36.41.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5d58ddb7c81bbee5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/the world.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "97e4450659f9c1a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗂🧰写作工具箱/3 - 超越世界.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "687c10c5341fb772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗂🧰写作工具箱/2 - 现实世界.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8f843a1f5ad5c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗂Pika-KM/🗂Pika/地图.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aa11ea60d65a208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗂🧰写作工具箱/4 - 论写作.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3105edc52d91642f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗂🧰写作工具箱/3 - 超越世界.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27b270cbbeb55f73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗂🧰写作工具箱/4 - 论写作.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fc0df8db15e2a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +41,7 @@
       {
         "id": "d340d199050e4b7e",
         "type": "tabs",
-        "dimension": 61.18518518518519,
+        "dimension": 47.86821705426357,
         "children": [
           {
             "id": "feaaf7a126058838",
@@ -208,25 +77,21 @@
       {
         "id": "d89dddcd7ea7330b",
         "type": "tabs",
-        "dimension": 38.81481481481481,
+        "dimension": 52.13178294573644,
         "children": [
           {
             "id": "178f4e56f67fe1c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗂📖阅读/文学/中国文学鉴赏辞典大系（套装共17部22册）.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 591.5
+    "width": 638.5
   },
   "right": {
     "id": "76c8cefe872e7d78",
@@ -251,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "。",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -266,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "🗂🧰写作工具箱/灵感盒子/关于思想.md"
               }
             }
           },
@@ -282,8 +147,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8c0421deb8620828",
@@ -296,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "🗂🧰写作工具箱/灵感盒子/关于思想.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,7 +183,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.16660109558890648,
+                  "scale": 0.7132754626224428,
                   "close": true
                 }
               }
@@ -331,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "🗂🧰写作工具箱/灵感盒子/关于思想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -348,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "🗂🧰写作工具箱/灵感盒子/关于思想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,11 +222,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "publish:发布更改": false,
+      "float-search:Search Obsidian In Modal": false,
+      "obsidian-comments:Show Comments Panel": false,
+      "omnisearch:Omnisearch": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -372,32 +239,48 @@
       "audio-recorder:开始/结束录音": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "3d-graph-new:Global 3D Graph": false,
-      "obsidian-weread-plugin:同步微信读书笔记": false,
-      "obsidian-ocr:Search OCR": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "69416b2c482ff2ce",
+  "active": "76964cdf673f0486",
   "lastOpenFiles": [
+    "🗂🧰写作工具箱/灵感盒子/审美.md",
+    "🗂🧰写作工具箱/灵感盒子/关于思想.md",
+    "🗂🧰写作工具箱/灵感盒子/4 - 论写作.md",
+    "🗂🧰写作工具箱/阳明心学在明清小说中的传承说略.md",
+    "Excalidraw/🐿️与🌊.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-24 12.36.41.excalidraw.md",
+    "书籍/打造第二大脑 (蒂亚戈·福特) .pdf",
     "🏡Home.md",
-    "Home.md",
-    "🚀NebulaPKM_Kit_介绍.md",
-    "🗂📖阅读/文学/中国文学鉴赏辞典大系（套装共17部22册）.md",
-    "🗂🧰写作工具箱/1 - 个人观.md",
-    "🗂🧰写作工具箱/2 - 现实世界.md",
-    "🗂🧰写作工具箱/4 - 论写作.md",
-    "🗂🧰写作工具箱/审美.md",
-    "🗂🧰写作工具箱/灵感盒子/思想.md",
-    "🗂🧰写作工具箱/3 - 超越世界.md",
-    "🗂🧰写作工具箱/写作技巧",
-    "一些问题.md",
-    "🗂Pika-KM/🗂模板/💡 学习新概念.md",
-    "🗂Pika-KM/🗂模板/💡 商业画布.md",
-    "🗂Pika-KM/🗂模板/💡 读书笔记.md",
-    "🗂Pika-KM/🗂模板/📙读书笔记.md",
-    "🗂Pika-KM/🗂模板/🌊2024年年度计划.md",
+    "🗂🧰写作工具箱/灵感盒子/3 - 超越世界.md",
+    "🗂🧰写作工具箱/灵感盒子/2 - 现实世界.md",
+    "🗂🧰写作工具箱/灵感盒子/1 - 个人观.md",
+    "🗂🧰写作工具箱/🗂🧰写作工具箱.md",
     "🗂Pika-KM/🗂模板/🌊2024年12月日历.md",
+    "Excalidraw/the world.excalidraw.md",
+    "🗂Pika-KM/🗂Nebula/附件/01：6步基本使用入门.png",
+    "🗂Pika-KM/🗂Pika/未命名.md",
+    "🗂Pika-KM/🗂Pika/地图.md",
+    "🗂Pika-KM/🗂Pika/标签体系.md",
+    "书籍/未命名.md",
+    "🗂🧰写作工具箱/未命名.md",
+    "书籍",
+    "🚀NebulaPKM_Kit_介绍.md",
+    "🗂🧰写作工具箱/未命名 1.md",
+    "🗂Pika-KM/🗂模板/💡 读书笔记.md",
+    "snippets/sidecallout.css",
+    "snippets",
+    "一些问题.md",
+    "Home.md",
+    "🗂🧰写作工具箱/写作解构/红楼梦/红楼梦的两个世界.md",
+    "🗂🧰写作工具箱/写作技巧/遣词造句 (词语+成语+典故)/未命名.md",
+    "🗂🧰写作工具箱/写作技巧",
+    "🗂🧰写作工具箱/写作技巧/舞文弄墨 (比喻+修辞)",
+    "🗂🧰写作工具箱/写作技巧/遣词造句 (词语+成语+典故)",
+    "🗂🧰写作工具箱/写作解构/A - 书评",
+    "🗂🧰写作工具箱/写作解构/红楼梦",
+    "🗂🧰写作工具箱/写作解构/西游记",
     "🗂Pika-KM/🗂Nebula/附件/Pasted Image 20231003232818_487.png",
     "🗂Pika-KM/🗂Nebula/附件/Pasted Image 20231003232557_380.png",
     "🗂Pika-KM/🗂Nebula/附件/Pasted Image 20231003232557_376.png",
@@ -406,25 +289,6 @@
     "🗂Pika-KM/🗂Nebula/附件/Pasted Image 20231003232557_328.png",
     "🗂Pika-KM/🗂Nebula/附件/Pasted Image 20231003232440_219.png",
     "🗂Pika-KM/🗂Nebula/附件/Echo.png",
-    "🗂Pika-KM/🗂Nebula/🪐NebulaPKM.md",
-    "🗂🧰写作工具箱/灵感盒子",
-    "Excalidraw/the world.excalidraw.md",
-    "🗂Pika-KM/🗂Pika/未命名.md",
-    "🗂Pika-KM/🗂Pika/地图.md",
-    "🗂Pika-KM/🗂Pika/标签体系.md",
-    "🗂Pika-KM/🗂Pika",
-    "🗂Pika-KM/🗂Nebula/如何利用标签组织笔记系统.md",
-    "📖阅读/未分类/写作课 (中国故事).md",
-    "📖阅读/未分类/西游日记.md",
-    "📖阅读/未分类",
-    "📖阅读",
-    "🗂Pika-KM/🗂模板/sky.jpg",
-    "Excalidraw/Drawing 2024-03-24 12.36.41.excalidraw.md",
-    "🗂Pika-KM/🗂模板/universe.jpg",
-    "Excalidraw",
-    "🗂📖阅读/精品小说",
-    "🗂📖阅读/生活百科",
-    "🗂📖阅读/个人成长",
-    "🗂📖阅读/历史"
+    "🗂Pika-KM/🗂模板/sky.jpg"
   ]
 }

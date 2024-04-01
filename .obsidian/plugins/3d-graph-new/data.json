@@ -95,10 +95,10 @@
   ],
   "temporaryLocalGraphSetting": {
     "filter": {
-      "searchQuery": "",
+      "searchQuery": "tag:#excalidraw  ",
       "showOrphans": true,
       "showAttachments": false,
-      "depth": 2,
+      "depth": 4,
       "linkType": "both"
     },
     "groups": [
@@ -120,7 +120,7 @@
       }
     ],
     "display": {
-      "nodeSize": 3.6,
+      "nodeSize": 6.6,
       "linkThickness": 1.2,
       "linkDistance": 168,
       "nodeRepulsion": 3000,
