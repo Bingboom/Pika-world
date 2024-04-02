@@ -1,7 +1,7 @@
 {
-  "accentColor": "#9356f5",
+  "accentColor": "#a88dd3",
   "cssTheme": "AnuPpuccin",
-  "theme": "system",
+  "theme": "obsidian",
   "nativeMenus": true,
   "baseFontSize": 17,
   "translucency": true,
@@ -14,9 +14,9 @@
     "color scheme_dark to light (All blue)",
     "custom-admonitions.c9c6cb",
     "speech bubbles-1",
-    "speech bubbles-2",
     "vertical lines of list-1",
-    "vertical lines of list-2"
+    "vertical lines of list-2",
+    "speech bubbles-2"
   ],
   "baseFontSizeAction": false
 }
