@@ -1,13 +1,22 @@
 {
-  "accentColor": "#d8c5f7",
-  "cssTheme": "sQdthOne",
-  "theme": "moonstone",
+  "accentColor": "#9356f5",
+  "cssTheme": "AnuPpuccin",
+  "theme": "system",
   "nativeMenus": true,
   "baseFontSize": 17,
   "translucency": true,
   "textFontFamily": "Apple Braille",
   "interfaceFontFamily": "Apple Braille",
   "enabledCssSnippets": [
-    "sidecallout"
-  ]
+    "sidecallout",
+    "【FONT】Consolas-Bookerly",
+    "obsidian",
+    "color scheme_dark to light (All blue)",
+    "custom-admonitions.c9c6cb",
+    "speech bubbles-1",
+    "speech bubbles-2",
+    "vertical lines of list-1",
+    "vertical lines of list-2"
+  ],
+  "baseFontSizeAction": false
 }
