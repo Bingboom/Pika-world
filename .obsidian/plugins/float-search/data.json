@@ -1,9 +1,9 @@
 {
   "searchViewState": {
-    "query": "现代",
+    "query": "",
     "matchingCase": false,
     "explainSearch": false,
-    "collapseAll": true,
+    "collapseAll": false,
     "extraContext": false,
     "sortOrder": "alphabetical"
   }
