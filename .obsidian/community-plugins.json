@@ -15,5 +15,10 @@
   "omnisearch",
   "text-extractor",
   "obsidian-minimal-settings",
-  "editing-toolbar"
+  "editing-toolbar",
+  "better-word-count",
+  "obsidian-echarts",
+  "dataview",
+  "heatmap-calendar",
+  "obsidian-daily-stats"
 ]

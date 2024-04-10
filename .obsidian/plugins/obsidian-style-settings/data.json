@@ -2,5 +2,11 @@
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "blue-topaz-theme@@full-width-backlinks": true,
   "blue-topaz-theme@@interactive-accent@@light": "#9F9DEE",
-  "blue-topaz-theme@@transparent-setting-panel": false
+  "blue-topaz-theme@@transparent-setting-panel": true,
+  "blue-topaz-theme@@toggle-calendar-shadow": true,
+  "blue-topaz-theme@@toggle-calendar-transparent": true,
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@bt-background-split-container@@light": "#B891D9",
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-waves2",
+  "blue-topaz-theme@@color-scheme-options": "null"
 }

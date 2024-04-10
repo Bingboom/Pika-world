@@ -43,5 +43,21 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-echarts:echarts-create-charts": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
+  ],
+  "obsidian-daily-stats:show-daily-stats-tracker-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F10"
+    }
   ]
 }

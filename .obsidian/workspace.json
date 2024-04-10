@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "5d97c86bd8e550bf",
+    "id": "0f8d3e93d6d40165",
     "type": "split",
     "children": [
       {
-        "id": "11c668b61016ac59",
+        "id": "5c22395ed76647da",
         "type": "tabs",
         "children": [
           {
-            "id": "522704435939843e",
+            "id": "061f82722c9169ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧰写作工具箱/🌍文字世界/4 - 树苗🌱/始于困惑.md",
+                "file": "🐿️的文字世界.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,7 @@
             }
           },
           {
-            "id": "042de4457655b372",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🧰写作工具箱/🌍文字世界/4 - 树苗🌱/始于困惑.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d77d5f0d9fcd0438",
+            "id": "81053be363b8d01c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,21 +34,22 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "acaa77b2428e2cc4",
+    "id": "28fc1216bac287cb",
     "type": "split",
     "children": [
       {
-        "id": "187634c977c12853",
+        "id": "d340d199050e4b7e",
         "type": "tabs",
+        "dimension": 61.18518518518519,
         "children": [
           {
-            "id": "f2b4fec93ade1f13",
+            "id": "feaaf7a126058838",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,22 +59,18 @@
             }
           },
           {
-            "id": "ba18e1e2b2c188b0",
+            "id": "c281ee86246ae73c",
             "type": "leaf",
             "state": {
-              "type": "search",
+              "type": "tag",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "f84c968152a15a8c",
+            "id": "f2e8cb42cb7f2a59",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,21 +78,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "d89dddcd7ea7330b",
+        "type": "tabs",
+        "dimension": 38.81481481481481,
+        "children": [
+          {
+            "id": "178f4e56f67fe1c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 503.0026054382324
   },
   "right": {
-    "id": "59c00f4014ab3f9e",
+    "id": "76c8cefe872e7d78",
     "type": "split",
     "children": [
       {
-        "id": "61e83961a6d0ae59",
+        "id": "a37882a6381d8ed1",
         "type": "tabs",
+        "dimension": 45.33468559837727,
         "children": [
           {
-            "id": "8e7579d7ad673ae2",
+            "id": "5527e08cc399f662",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -116,7 +116,86 @@
             }
           },
           {
-            "id": "2f3506b0a7ea8ff2",
+            "id": "69416b2c482ff2ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "424f8ad00edece5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🧰写作工具箱/🌍文字世界/4 - 树苗🌱/始于困惑.md"
+              }
+            }
+          },
+          {
+            "id": "b61562090b50d036",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8c0421deb8620828",
+        "type": "tabs",
+        "dimension": 54.66531440162273,
+        "children": [
+          {
+            "id": "3f761b1ba3150ca0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "🧰写作工具箱/🌍文字世界/4 - 树苗🌱/始于困惑.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224428,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "eaa11a324dcd968b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -133,7 +212,7 @@
             }
           },
           {
-            "id": "aa8bcee53a9988c1",
+            "id": "7d8e74c24b9a84da",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -143,95 +222,67 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "f798a1b7ff8fb17c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "bf24bce565a33c5b",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "5dd23810482539c6",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "🧰写作工具箱/🌍文字世界/4 - 树苗🌱/始于困惑.md"
-              }
-            }
-          },
-          {
-            "id": "9242a29934aa99dc",
-            "type": "leaf",
-            "state": {
-              "type": "annotations-outline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 770
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "3d-graph-new:Global 3D Graph": false,
       "float-search:Search Obsidian In Modal": false,
       "obsidian-comments:Show Comments Panel": false,
       "omnisearch:Omnisearch": false,
+      "publish:发布更改": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "publish:发布更改": false
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d77d5f0d9fcd0438",
+  "active": "81053be363b8d01c",
   "lastOpenFiles": [
-    "🐿️的文字世界.md",
+    "🧰写作工具箱/🌍文字世界/5 - 绿洲🌳/1 - 故事1/我要写怎样一个故事.md",
     "🧰写作工具箱/🌍文字世界/4 - 树苗🌱/始于困惑.md",
-    "🧰写作工具箱/🌍文字世界/3 - 空气💨/老人与海.md",
-    "🧰写作工具箱/🌍文字世界/5 - 绿洲🌳/偷故事的人.md",
+    "Home.md",
+    "🐿️的文字世界.md",
+    "🧰写作工具箱/写作解构/人间值得/人间值得.md",
+    "🗂Pika-KM/🗂模板/💡 读书笔记.md",
+    "🗂Pika-KM/🗂Pika/标签体系.md",
+    "🗂Pika-KM/🗂Pika/未命名.md",
+    "🗂Pika-KM/🗂Pika/地图.md",
+    "Excalidraw/🐿️与🌊.excalidraw.md",
+    "书籍/未命名.md",
+    "书籍/打造第二大脑 (蒂亚戈·福特) .pdf",
+    "Excalidraw/世界.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-24 12.36.41.excalidraw.md",
+    "🗂Pika-KM/🗂模板/2024年日历：八月.md",
+    "🗂Pika-KM/🗂模板/2024年日历：一月.md",
+    "🗂Pika-KM/🗂模板/2024年日历：五月.md",
+    "🗂Pika-KM/🗂模板/2024年日历：四月.md",
+    "🗂Pika-KM/🗂模板/2024年日历：十月.md",
+    "🗂Pika-KM/🗂模板/2024年日历：十一月.md",
+    "🗂Pika-KM/🗂模板/2024年日历：十二月.md",
+    "🗂Pika-KM/🗂模板/2024年日历：三月.md",
+    "🗂Pika-KM/🗂模板/2024年日历：七月.md",
+    "🗂Pika-KM/🗂模板/2024年日历：六月.md",
+    "🗂Pika-KM/🗂模板/2024年日历：九月.md",
+    "🗂Pika-KM/🗂模板/2024年日历：二月.md",
+    "🗂Pika-KM/🗂模板/📙读书笔记.md",
+    "🗂Pika-KM/🗂模板/universe.jpg",
+    "🗂Pika-KM/🗂模板/sky.jpg",
+    "🧰写作工具箱/🌍文字世界/5 - 绿洲🌳/1 - 故事1",
     "🧰写作工具箱/🌍文字世界/5 - 绿洲🌳",
-    "🧰写作工具箱/🌍文字世界/1 - 种子🌾/困惑.md",
-    "🧰写作工具箱/🌍文字世界/2 - 土壤🟫/审美.md",
-    "🧰写作工具箱/灵感盒子/民族主义与后殖民文学.md",
-    "🧰写作工具箱/🌍文字世界/1 - 种子🌾/欧洲与中国的文化差异.md",
-    "🧰写作工具箱/🌍文字世界/1 - 种子🌾/不可知.md",
-    "🧰写作工具箱/🌍文字世界/1 - 种子🌾/后殖民.md",
-    "🧰写作工具箱/文学评论/中国文学之与世界性文化的矛盾.md",
-    "🧰写作工具箱/灵感盒子/2 - 现实世界.md",
-    "🧰写作工具箱/灵感盒子/5 - 反现代化思潮.md",
-    "🧰写作工具箱/灵感盒子/3 - 超越世界.md",
-    "Excalidraw/Drawing 2024-04-09 12.48.46.excalidraw.md",
     "🧰写作工具箱/🌍文字世界/4 - 树苗🌱",
     "🧰写作工具箱/🌍文字世界/3 - 空气💨",
-    "书籍/未命名.md",
     "🧰写作工具箱/🌍文字世界/2 - 土壤🟫",
     "🧰写作工具箱/🌍文字世界/1 - 种子🌾"
   ]

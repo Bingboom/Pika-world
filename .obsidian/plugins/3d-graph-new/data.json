@@ -138,9 +138,9 @@
   },
   "temporaryGlobalGraphSetting": {
     "filter": {
-      "searchQuery": "阅读",
+      "searchQuery": "",
       "showOrphans": true,
-      "showAttachments": false
+      "showAttachments": true
     },
     "groups": [
       {
