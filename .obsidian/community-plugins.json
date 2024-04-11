@@ -20,5 +20,7 @@
   "obsidian-echarts",
   "dataview",
   "heatmap-calendar",
-  "obsidian-daily-stats"
+  "obsidian-daily-stats",
+  "heading-level-indent",
+  "obsidian-dynamic-background"
 ]

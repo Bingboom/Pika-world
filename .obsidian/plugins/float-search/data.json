@@ -1,5 +1,10 @@
 {
   "searchViewState": {
-    "query": ""
+    "query": "",
+    "matchingCase": false,
+    "explainSearch": false,
+    "collapseAll": true,
+    "extraContext": false,
+    "sortOrder": "alphabetical"
   }
 }
