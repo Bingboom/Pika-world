@@ -12,5 +12,6 @@
   "blue-topaz-theme@@rainbow-checklist": true,
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-monokai",
   "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-waves2-light",
-  "blue-topaz-theme@@blur-depth": 23
+  "blue-topaz-theme@@blur-depth": 23,
+  "blue-topaz-theme@@transparent-setting-panel": false
 }

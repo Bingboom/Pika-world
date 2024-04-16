@@ -1,9 +1,9 @@
 {
-  "accentColor": "#ad82f2",
-  "cssTheme": "Blue Topaz",
-  "theme": "obsidian",
-  "nativeMenus": true,
-  "baseFontSize": 17,
+  "accentColor": "#dac6fb",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "nativeMenus": false,
+  "baseFontSize": 13,
   "translucency": true,
   "textFontFamily": "Apple Braille",
   "interfaceFontFamily": "Apple Braille",
@@ -18,5 +18,5 @@
     "vertical lines of list-2",
     "speech bubbles-2"
   ],
-  "baseFontSizeAction": false
+  "baseFontSizeAction": true
 }
