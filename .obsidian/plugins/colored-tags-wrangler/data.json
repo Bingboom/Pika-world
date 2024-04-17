@@ -1,6 +1,35 @@
 {
   "TagColors": {
-    "ColorPicker": [],
+    "ColorPicker": [
+      {
+        "tag_name": "探索中国",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 235,
+          "g": 164,
+          "b": 249
+        },
+        "luminance_offset": 0.15
+      },
+      {
+        "tag_name": "认识世界",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        },
+        "background_color": {
+          "r": 60,
+          "g": 221,
+          "b": 210
+        },
+        "luminance_offset": 0.15
+      }
+    ],
     "EnableMultipleTags": true,
     "EnableSeparateBackground": true,
     "EnableBackgroundOpacity": false,
@@ -43,7 +72,7 @@
     }
   },
   "Canvas": {
-    "Enable": false,
+    "Enable": true,
     "EnableBackgroundOpacity": false,
     "Values": {
       "BackgroundOpacity": 0.45,

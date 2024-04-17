@@ -1,24 +1,45 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#excalidraw  ",
+      "query": "tag:#world/小说构思  ",
       "color": {
         "a": 1,
-        "rgb": 8617188
+        "rgb": 14196479
       }
     },
     {
-      "query": "tag:#文化  ",
+      "query": "tag:#world/写作  ",
       "color": {
         "a": 1,
-        "rgb": 234087
+        "rgb": 5500623
+      }
+    },
+    {
+      "query": "tag:#world  ",
+      "color": {
+        "a": 1,
+        "rgb": 963835
+      }
+    },
+    {
+      "query": "tag:#excalidraw  ",
+      "color": {
+        "a": 1,
+        "rgb": 16751375
+      }
+    },
+    {
+      "query": "tag:#桥  ",
+      "color": {
+        "a": 1,
+        "rgb": 15990605
       }
     }
   ],
@@ -32,6 +53,6 @@
   "repelStrength": 12.680412371134,
   "linkStrength": 1,
   "linkDistance": 195,
-  "scale": 0.39661244056924433,
+  "scale": 0.3966124405692452,
   "close": true
 }

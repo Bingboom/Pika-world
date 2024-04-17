@@ -24,6 +24,105 @@
       "type": "file",
       "ctime": 1708997367566,
       "path": "🗂👩PKM/🗂模板/🪐 PK系统-创意版.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1713336185192,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1713336226628,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1713336413575,
+              "items": [],
+              "title": "历史"
+            },
+            {
+              "type": "group",
+              "ctime": 1713336423873,
+              "items": [],
+              "title": "经济"
+            }
+          ],
+          "title": "欧洲"
+        },
+        {
+          "type": "group",
+          "ctime": 1713336202602,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1713336306270,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1713336321815,
+                  "items": [],
+                  "title": "哲学"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1713336321815,
+                  "items": [],
+                  "title": "哲学"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1713336333606,
+                  "items": [],
+                  "title": "文学"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1713336344304,
+                  "items": [],
+                  "title": "文化评论"
+                }
+              ],
+              "title": "文化"
+            },
+            {
+              "type": "group",
+              "ctime": 1713336293996,
+              "items": [],
+              "title": "社会"
+            },
+            {
+              "type": "group",
+              "ctime": 1713336212347,
+              "items": [],
+              "title": "政治"
+            },
+            {
+              "type": "group",
+              "ctime": 1713336257056,
+              "items": [],
+              "title": "个人"
+            },
+            {
+              "type": "group",
+              "ctime": 1713336274870,
+              "items": [],
+              "title": "经济"
+            },
+            {
+              "type": "group",
+              "ctime": 1713336359421,
+              "items": [],
+              "title": "自然"
+            }
+          ],
+          "title": "探索中国"
+        },
+        {
+          "type": "file",
+          "ctime": 1713336454607,
+          "path": "🧰写作工具箱/🌍文字世界/4 - 树苗🌱/始于困惑.md"
+        }
+      ],
+      "title": "认识世界"
     }
   ]
 }
