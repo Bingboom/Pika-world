@@ -5,8 +5,8 @@
   "nativeMenus": false,
   "baseFontSize": 13,
   "translucency": true,
-  "textFontFamily": "Apple Braille",
-  "interfaceFontFamily": "Apple Braille",
+  "textFontFamily": "Cascadia Code",
+  "interfaceFontFamily": "JetBrains Mono",
   "enabledCssSnippets": [
     "sidecallout",
     "【FONT】Consolas-Bookerly",
@@ -18,5 +18,6 @@
     "vertical lines of list-2",
     "speech bubbles-2"
   ],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showViewHeader": false
 }

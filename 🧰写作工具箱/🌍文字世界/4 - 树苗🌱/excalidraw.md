@@ -1,3 +1,6 @@
 ---
-Aliases: [ "#excalidraw" ]
+aliases:
+  - "#excalidraw"
+tags:
+  - world
 ---

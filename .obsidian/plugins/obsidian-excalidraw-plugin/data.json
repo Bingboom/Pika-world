@@ -8452,7 +8452,7 @@
             "containerId": null,
             "originalText": "Key Partner",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -8492,7 +8492,7 @@
             "containerId": null,
             "originalText": "重要合作",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -8532,7 +8532,7 @@
             "containerId": null,
             "originalText": "Key Activity",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -8572,7 +8572,7 @@
             "containerId": null,
             "originalText": "关键业务",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -8612,7 +8612,7 @@
             "containerId": null,
             "originalText": "Business Model Canvas",
             "lineHeight": 1.25,
-            "baseline": 32
+            "baseline": 37
           },
           {
             "type": "rectangle",
@@ -8935,7 +8935,7 @@
             "containerId": null,
             "originalText": "Key Pesource",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -8975,7 +8975,7 @@
             "containerId": null,
             "originalText": "核心业务",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9015,7 +9015,7 @@
             "containerId": null,
             "originalText": "Value Proposition",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9055,7 +9055,7 @@
             "containerId": null,
             "originalText": "价值服务",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9095,7 +9095,7 @@
             "containerId": null,
             "originalText": "Customer Pelation",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9135,7 +9135,7 @@
             "containerId": null,
             "originalText": "客户关系",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9175,7 +9175,7 @@
             "containerId": null,
             "originalText": "Channel",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9215,7 +9215,7 @@
             "containerId": null,
             "originalText": "渠道",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9255,7 +9255,7 @@
             "containerId": null,
             "originalText": "Customer Segments",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9295,7 +9295,7 @@
             "containerId": null,
             "originalText": "客户画像",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9335,7 +9335,7 @@
             "containerId": null,
             "originalText": "Pevenue Stream",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9375,7 +9375,7 @@
             "containerId": null,
             "originalText": "收入来源",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9415,7 +9415,7 @@
             "containerId": null,
             "originalText": "Cost Structure",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           },
           {
             "type": "text",
@@ -9455,7 +9455,7 @@
             "containerId": null,
             "originalText": "成本结构",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 16
           }
         ],
         "created": 1707211199891
