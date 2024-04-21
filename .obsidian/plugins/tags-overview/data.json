@@ -1,6 +1,6 @@
 {
   "filterAnd": true,
-  "displayType": "list",
+  "displayType": "compact",
   "sortTags": "name",
   "sortFiles": "name",
   "keepFilters": true,

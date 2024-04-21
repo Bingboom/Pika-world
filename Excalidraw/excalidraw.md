@@ -1,3 +1,3 @@
 ---
-Aliases: [ "#excalidraw" ]
+Aliases: [ "#图景" ]
 ---
