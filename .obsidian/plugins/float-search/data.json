@@ -3,7 +3,7 @@
     "query": "",
     "matchingCase": false,
     "explainSearch": false,
-    "collapseAll": false,
+    "collapseAll": true,
     "extraContext": false,
     "sortOrder": "alphabetical"
   }

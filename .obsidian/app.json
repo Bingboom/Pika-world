@@ -4,5 +4,5 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "showInlineTitle": false
+  "showInlineTitle": true
 }

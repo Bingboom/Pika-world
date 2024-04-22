@@ -59,5 +59,30 @@
       ],
       "key": "F10"
     }
+  ],
+  "cardify:generate-file-cards": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "cardify:insert-internal-link": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
+  ],
+  "copilot:summarize-prompt": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }

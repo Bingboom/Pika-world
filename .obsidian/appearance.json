@@ -1,7 +1,7 @@
 {
   "accentColor": "#dac6fb",
-  "cssTheme": "Blue Topaz",
-  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
   "nativeMenus": false,
   "baseFontSize": 13,
   "translucency": true,
@@ -19,5 +19,5 @@
     "speech bubbles-2"
   ],
   "baseFontSizeAction": true,
-  "showViewHeader": false
+  "showViewHeader": true
 }
