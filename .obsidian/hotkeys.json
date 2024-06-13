@@ -84,5 +84,13 @@
       ],
       "key": "S"
     }
+  ],
+  "local-gpt:context-menu": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }

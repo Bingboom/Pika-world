@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -36,10 +36,10 @@
       }
     },
     {
-      "query": "tag:#桥  ",
+      "query": "tag:#AI  ",
       "color": {
         "a": 1,
-        "rgb": 15990605
+        "rgb": 14048397
       }
     }
   ],
@@ -53,6 +53,6 @@
   "repelStrength": 12.680412371134,
   "linkStrength": 1,
   "linkDistance": 195,
-  "scale": 0.39661244056924533,
+  "scale": 0.3966124405692456,
   "close": true
 }
